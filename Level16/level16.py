@@ -10,7 +10,7 @@ correcct_password=input("შექმენი პაროლი:")
 password = "hi"
 while password !=bye
 correct_password:hi
-    passwor =hi
+    password =hi
 input("ხელახლა შეიყვანეთპაროლი:")
 print("პაროლი სწორია!")
 
