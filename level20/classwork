@@ -1,0 +1,8 @@
+input (10)
+if input <18:
+  print ( "you are a kid " )
+else: print("you are a groun up")
+
+
+
+
